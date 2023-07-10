@@ -44,4 +44,4 @@ More information from the sponsors can be found below!
 
 Hackathon GitHub: https://github.com/w3-key/BuildFFS-EthCC
 
-Intu Docs: docs.intu.xyz
+Intu Docs: [docs.intu.xyz](docs.intu.xyz)
