@@ -1,6 +1,26 @@
 # Introduction to Intu
 
-Intro here
+INTU's novel infrastructure achieves one thing:
+
+Providing developers the next-gen tools they've been missing, to provide their end users with the experiences they've been asking for. 
+
+The end result of the protocol is simple:
+
+Normal, static public address (e.g. 0x123abc) but now with **Dynamic Private Keyshares** instead of a single, static private key.
+
+What does this mean for developers like you?
+
+ - Flexible Ownership models
+ - Customizable Account Recovery Schemes
+ - Proactive Security (aka "Reset my password")
+ - Full control of user onboarding without external third parties (Fiat on-ramp, account creation-as-a-service, gasless transactions)
+
+Because the SDK runs locally (in-browser, on desktop, or on mobile), and it creates a normal Externally-Owned Account Address, INTU accounts work today! 
+
+ - Supports all EVM-compatible chains
+ - Same account on all networks
+ - Ethers.JS 
+ - Compatible with all dApps, protocols, and services
 
 
 ## Discord Server + Important Links
@@ -11,6 +31,7 @@ INTU Development Docs: [docs.intu.xyz](docs.intu.xyz)
 
 ## General Architecture
 
+*Coming Soon*
 
 ## Challenges
 
