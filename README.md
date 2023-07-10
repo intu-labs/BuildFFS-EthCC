@@ -13,7 +13,7 @@ https://discord.gg/Wv8UGhn3FJ
 
 |Date | Time  | Topic | Link
 |--|--|--|--|
-| Mon, July 10 | 6 pm CEST | Hackathon Kick-off | https://us02web.zoom.us/j/81870022435
+| Mon, July 10 | 6 pm CEST | Hackathon Kick-off | [https://www.youtube.com/watch?v=yWgwO7yxLKc)](https://www.youtube.com/watch?v=yWgwO7yxLKc)
 |Tue, July 11 | 6 pm CEST | INTU Hello World! | https://us02web.zoom.us/j/81309289386
 |Wed, July 12 | 6 pm CEST | INTU + AA | https://us02web.zoom.us/j/89598176341
 |Thurs, July 13 | 6 pm CEST | Better UX with Intu | https://us02web.zoom.us/j/81993002306
