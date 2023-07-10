@@ -14,10 +14,10 @@ https://discord.gg/Wv8UGhn3FJ
 |Date | Time  | Topic | Link
 |--|--|--|--|
 | Mon, July 10 | 6 pm CEST | Hackathon Kick-off | https://us02web.zoom.us/j/81870022435
-|Tue, July 11 | 6 pm CEST | INTU Hello World! | 
-|Wed, July 12 | 6 pm CEST | INTU + AA | 
-|Thurs, July 13 | 6 pm CEST | Better UX with Intu | 
-|Fri, July 14 | 6 pm CEST | Promote Your Project | 
+|Tue, July 11 | 6 pm CEST | INTU Hello World! | https://us02web.zoom.us/j/81309289386
+|Wed, July 12 | 6 pm CEST | INTU + AA | https://us02web.zoom.us/j/89598176341
+|Thurs, July 13 | 6 pm CEST | Better UX with Intu | https://us02web.zoom.us/j/81993002306
+|Fri, July 14 | 6 pm CEST | Promote Your Project | https://us02web.zoom.us/j/81765467179
 |Mon, July 10 | 12 pm - 6 pm CEST| HACKATHON FINALE | Cafe de la Presse, Paris FR
 
 ## Submission Requirements
